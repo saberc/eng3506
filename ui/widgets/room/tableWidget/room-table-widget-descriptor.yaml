@@ -1,0 +1,6 @@
+code: room-table-widget
+titles:
+  en: Room Table Widget
+  it: Room Table Widget
+group: free
+customUiPath: room-table-widget.ftl

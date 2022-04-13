@@ -1,0 +1,13 @@
+code: eng3506-bundle
+description: This is the eng3506 bundle
+
+components:
+  plugins:
+    - plugins/eng3506-plugin.yaml
+
+  widgets:
+    - ui/widgets/room/tableWidget/room-table-widget-descriptor.yaml
+    - ui/widgets/room/detailsWidget/room-details-widget-descriptor.yaml
+    - ui/widgets/room/formWidget/room-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

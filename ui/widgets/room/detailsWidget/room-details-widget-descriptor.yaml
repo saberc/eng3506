@@ -1,0 +1,6 @@
+code: room-details-widget
+titles:
+  en: Room Details Widget
+  it: Room Details Widget
+group: free
+customUiPath: room-details-widget.ftl

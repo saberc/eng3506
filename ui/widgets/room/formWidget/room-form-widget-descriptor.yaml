@@ -1,0 +1,6 @@
+code: room-form-widget
+titles:
+  en: Room Form Widget
+  it: Room Form Widget
+group: free
+customUiPath: room-form-widget.ftl
